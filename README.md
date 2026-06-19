@@ -69,8 +69,7 @@ GET /students/
     "id": "S101",
     "name": "Alice",
     "age": 20,
-    "course": "Computer Science",
-    "email": "alice@example.com"
+    "course": "Computer Science"
   }
 ]
 ```
@@ -92,8 +91,7 @@ GET /students/<student_id>
   "id": "S101",
   "name": "Alice",
   "age": 20,
-  "course": "Computer Science",
-  "email": "alice@example.com"
+  "course": "Computer Science"
 }
 ```
 
